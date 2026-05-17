@@ -27,3 +27,7 @@ I also gave a presentation about realisability in the [doctoral students seminar
 ## Teaching
 
 - Practical session about basic programing on [Robusta](https://github.com/FrenchTechLead/robusta) at [UPCE](https://www.u-pec.fr/) (Université Paris-Est Créteil) — 2025-2026
+
+## Contact
+
+remi.labourdette@u-pec.fr
