@@ -1,9 +1,8 @@
-
 # Personal page
 
 ## Presentation
 
-Hello, my name is Rémi Labourdette. I am a PhD student at the LACL (Laboratory of Algorithmic, Complexity and Logic) under the supervision of Laura Fontanella and Julien Cervelle, working mostly on realizability in set theory but also in many other aspects mixing logic, mathematics and computer science. My thesis project is about realizability models for the axiom of choice, to have a better understanding on its computational side.
+Hello, my name is Rémi Labourdette. I am a PhD student at the [LACL](https://www.lacl.fr/index.html) (Laboratory of Algorithmic, Complexity and Logic) under the supervision of [Laura Fontanella](https://www.lacl.fr/~lfontanella/) and [Julien Cervelle](https://jc.lacl.fr/), working mostly on realizability in set theory but also in many other aspects mixing logic, mathematics and computer science. My thesis project is about realizability models for the axiom of choice, to have a better understanding on its computational side. My studies are mostly motivated by a deep questioning about fondations in mathematics, the philosophical questions that come with and a certain interest for programing. 
 
 ## Educational background
 - First year PhD student in logic and computer science at the LACL, Université Paris-Est Créteil — 2025-2026
@@ -19,6 +18,8 @@ Hello, my name is Rémi Labourdette. I am a PhD student at the LACL (Laboratory 
 - High school : Lycée Hippolyte Fontaine, Dijon — 2018-2019
   - French Baccalauréat : mathematics, engineering sciences, european bilingual section, with honours “Very Well”
 
-## Interest
+## Reaserch and interest
 
 I am mostly interested in realizability and set theory, which entails a large covering of mathematical logic and theoretic computer science. For instance, I also take some time to lear about proof theory and intuitionistic logic, calculability, rocq programming and a little bit of category theory.
+
+I also gave a presentation about realisability in the [doctoral student seminar](https://www.lacl.fr/seminairesdoc.html) of the LACL.
