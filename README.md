@@ -2,7 +2,7 @@
 
 ## Presentation
 
-Hello, my name is Rémi Labourdette. I am a PhD student at the LACL (Laboratory of Algorithmic, Complexity and Logic) under the supervision of Laura Fontanella and Julien Cervelle, working mostly on realizability in set theory but also in many other aspects mixing logic, mathematics and computer science.
+Hello, my name is Rémi Labourdette. I am a PhD student at the LACL (Laboratory of Algorithmic, Complexity and Logic) under the supervision of Laura Fontanella and Julien Cervelle, working mostly on realizability in set theory but also in many other aspects mixing logic, mathematics and computer science. My thesis project is about realizability models for the axiom of choice, to have a better understanding on its computational side.
 
 ## Educational background
 - First year PhD student in logic and computer science at the LACL, Université Paris-Est Créteil — 2025-2026
@@ -17,3 +17,7 @@ Hello, my name is Rémi Labourdette. I am a PhD student at the LACL (Laboratory 
   - Learn Python and Ocaml programming
 - High school : Lycée Hippolyte Fontaine, Dijon — 2018-2019
   - French Baccalauréat : mathematics, engineering sciences, european bilingual section, with honours “Very Well”
+
+## Interest
+
+I am mostly interested in realizability and set theory, which entails a large covering of mathematical logic and theoretic computer science. For instance, I also take some time to lear about proof theory and intuitionistic logic, calculability, rocq programming and a little bit of category theory.
