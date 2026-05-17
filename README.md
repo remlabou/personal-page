@@ -22,4 +22,8 @@ Hello, my name is Rémi Labourdette. I am a PhD student at the [LACL](https://ww
 
 I am mostly interested in realizability and set theory, which entails a large covering of mathematical logic and theoretic computer science. For instance, I also take some time to lear about proof theory and intuitionistic logic, calculability, rocq programming and a little bit of category theory.
 
-I also gave a presentation about realisability in the [doctoral student seminar](https://www.lacl.fr/seminairesdoc.html) of the LACL.
+I also gave a presentation about realisability in the [doctoral students seminar](https://www.lacl.fr/seminairesdoc.html) of the LACL.
+
+## Teaching
+
+- Practical session about basic programing on [Robusta](https://github.com/FrenchTechLead/robusta) — 2025-2026
